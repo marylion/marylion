@@ -1,7 +1,5 @@
-<h1> 👋 Olá, eu sou a Maria Leão </h1>
-<img src="https://br.freepik.com/vetores-gratis/ilustracao-do-conceito-de-teletrabalho_13416083.htm#query=trabalho%20remoto&position=30&from_view=search&track=sph">Imagem de storyset</img> no Freepik 
-
-
+<img align="rigth" src="#" width="150px" hight="150px">Imagem de storyset no Freepik</img> 
+<h1> 👋 Olá, eu sou a Maria Leão! </h1>
 - 👀 Gosto de Programação Front-end
 - 🌱 Estou aprendendo sobre Web Design Responsivo  
 - 💞️ Pretendo atuar na área de WebGIS
